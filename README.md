@@ -9,6 +9,8 @@ Merk, dette er bare et demo, ikke et fullstendig spill. Holder fortsatt på med 
 ---
 
 ## Bilder fra spillet
+<img width="659" height="369" alt="Skjermbilde 2025-09-13 kl  00 05 57" src="https://github.com/user-attachments/assets/99bd757f-d731-474e-9439-9470e883e031" />
+
 
 ![Gameplay](Skjermbilde%202025-09-13%20kl.%2000.05.57.png)
 ![Game Over](Skjermbilde%202025-09-12%20kl.%2023.59.56.png)
