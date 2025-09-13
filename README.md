@@ -12,10 +12,10 @@ Merk, dette er bare et demo, ikke et fullstendig spill. Holder fortsatt på med 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/99bd757f-d731-474e-9439-9470e883e031" width="250"/>
-![Gameplay] <img width="659" height="369" alt="Skjermbilde 2025-09-13 kl  00 05 57" src="https://github.com/user-attachments/assets/99bd757f-d731-474e-9439-9470e883e031" />
-![Game Over]<img width="745" height="423" alt="Skjermbilde 2025-09-12 kl  23 59 56" src="https://github.com/user-attachments/assets/95805362-ca10-4aff-8d59-69cceba8b111" />
-![Pipes]<img width="893" height="487" alt="Skjermbilde 2025-09-11 kl  22 41 58" src="https://github.com/user-attachments/assets/6f377789-bd6e-424e-ba34-70bbf0f2d896" />
+  <img src="https://github.com/user-attachments/assets/95805362-ca10-4aff-8d59-69cceba8b111" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6f377789-bd6e-424e-ba34-70bbf0f2d896" width="250"/>
 </p>
+
 ---
 
 ## Om prosjektet
