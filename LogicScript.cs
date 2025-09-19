@@ -11,6 +11,8 @@ public class LogicScript : MonoBehaviour
     public Text scoreText;
     // Referanse til Game-Over skjermen
     public GameObject gameOverScreen;
+    // AudioSource-komponenten som spiller av score lyd når du passerer en pipe
+    public AudioSource scoreSound;
 
     // Lar deg øke poeng fra Unity Editor (høyreklikk på scriptet -> Increase Score)
     [ContextMenu("Increase Score")]
@@ -20,6 +22,8 @@ public class LogicScript : MonoBehaviour
         playerScore = playerScore + scoreToAdd;
         // Oppdaterer UI teksten
         scoreText.text = playerScore.ToString();
+        // Her spilles lyden når du går opp en score
+        scoreSound.PlayOneShot(scoreSound.clip);
     }
 
     // Restarter spillet ved å reloade scenen
