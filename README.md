@@ -25,6 +25,7 @@ Lite demo spill
 ## Om prosjektet
 Dette prosjektet ble laget for å øve på grunnleggende Unity-konsepter som:
 - Objekt-spawning
+- Programmering i C#
 - Fysikk
 - UI-håndtering
 - WebGL build og publisering i nettleser
