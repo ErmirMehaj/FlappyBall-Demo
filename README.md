@@ -11,10 +11,14 @@ Merk, dette er bare et demo, ikke et fullstendig spill. Holder fortsatt på med 
 ## Bilder fra spillet
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99bd757f-d731-474e-9439-9470e883e031" width="250"/>
-  <img src="https://github.com/user-attachments/assets/95805362-ca10-4aff-8d59-69cceba8b111" width="250"/>
-  <img src="https://github.com/user-attachments/assets/6f377789-bd6e-424e-ba34-70bbf0f2d896" width="250"/>
+  <img src="https://github.com/user-attachments/assets/78294faf-6722-4528-b0cb-bbdf4a338303" width="600"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4505c205-3e69-4be8-a9b9-29e9cd93be10" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f29f8015-bbaa-483e-b374-fc51d894e0f9" width="400"/>
+</p>
+
 
 ---
 
