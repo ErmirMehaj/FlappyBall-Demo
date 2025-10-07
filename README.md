@@ -1,4 +1,4 @@
-# FlappyBall – Unity Project  
+# FlappyBall - Unity Project  
 Et enkelt Flappy Bird-inspirert spill laget i Unity.  
 Målet er å styre ballen gjennom hindrene uten å treffe rørene.  
 
